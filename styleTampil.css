@@ -1,0 +1,19 @@
+table{
+    font-size: 12px;
+}
+.label{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+.data td{
+    border: 1px solid rgb(62, 156, 222);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
